@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.terlibs",
+    "module": "terminalgame",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "terminalgame-1.0-SNAPSHOT.jar",
+          "url": "terminalgame-1.0-SNAPSHOT.jar",
+          "size": 2815,
+          "sha512": "2e49eb2d9dd0ec605006f2ae593c7fdcb9f55c9f94bea59250784131c1f348b544f618777607644d6d0f3df7ae9fea23674a5cf387e9fc7c9512981b011bed3d",
+          "sha256": "5be2b55d33db7396bde436d5de7db9cc4d44760f07df6f2d48c9cba126a91ce7",
+          "sha1": "49581195c6cc535cd45bb392f370c078bc7c0507",
+          "md5": "db5195c0cc486876640cc25a992b6161"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "terminalgame-1.0-SNAPSHOT.jar",
+          "url": "terminalgame-1.0-SNAPSHOT.jar",
+          "size": 2815,
+          "sha512": "2e49eb2d9dd0ec605006f2ae593c7fdcb9f55c9f94bea59250784131c1f348b544f618777607644d6d0f3df7ae9fea23674a5cf387e9fc7c9512981b011bed3d",
+          "sha256": "5be2b55d33db7396bde436d5de7db9cc4d44760f07df6f2d48c9cba126a91ce7",
+          "sha1": "49581195c6cc535cd45bb392f370c078bc7c0507",
+          "md5": "db5195c0cc486876640cc25a992b6161"
+        }
+      ]
+    }
+  ]
+}
