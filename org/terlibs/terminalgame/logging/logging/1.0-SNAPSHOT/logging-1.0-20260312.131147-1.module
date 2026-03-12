@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.terlibs.terminalgame.logging",
+    "module": "logging",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "logging-1.0-SNAPSHOT.jar",
+          "url": "logging-1.0-SNAPSHOT.jar",
+          "size": 1335,
+          "sha512": "2be7f9283f2330aba6a2c5fc5f03e40f45d6ea1d1d6c656a10b91dde2a7282cc8dac253f2c19345f93c737845b2c8d6bcd633e0866fcde3c7036295568952cb4",
+          "sha256": "16731e55c90c35ea1511f69c935528b9ac2c5ff7f25ca7f79ddf1b39a76c3930",
+          "sha1": "535e4580b714715bf1156fd49c35279a0375739e",
+          "md5": "66e5140049934bd88b85e005b64651b7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "logging-1.0-SNAPSHOT.jar",
+          "url": "logging-1.0-SNAPSHOT.jar",
+          "size": 1335,
+          "sha512": "2be7f9283f2330aba6a2c5fc5f03e40f45d6ea1d1d6c656a10b91dde2a7282cc8dac253f2c19345f93c737845b2c8d6bcd633e0866fcde3c7036295568952cb4",
+          "sha256": "16731e55c90c35ea1511f69c935528b9ac2c5ff7f25ca7f79ddf1b39a76c3930",
+          "sha1": "535e4580b714715bf1156fd49c35279a0375739e",
+          "md5": "66e5140049934bd88b85e005b64651b7"
+        }
+      ]
+    }
+  ]
+}
